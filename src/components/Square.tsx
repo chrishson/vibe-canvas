@@ -1,7 +1,7 @@
 interface SquareProps {
     color: string;
     borderColor: string;
-    size: number;
+    size: string;
 }
 
 export default function Square({ color, borderColor, size }: SquareProps) {

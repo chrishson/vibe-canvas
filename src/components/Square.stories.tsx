@@ -1,5 +1,3 @@
-import { fn } from "@storybook/test";
-
 import Square from './Square';
 
 export default {
