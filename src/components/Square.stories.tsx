@@ -3,9 +3,7 @@ import Square from './Square';
 export default {
   component: Square,
   title: 'Square',
-  tags: ['autodocs'],
-  //👇 Our exports that end in "Data" are not stories.
-  excludeStories: /.*Data$/,
+  tags: ['autodocs']
 };
 
 export const Default = {
